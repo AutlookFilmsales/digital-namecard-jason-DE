@@ -1,12 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Hock;Andrea;;;
-FN: Andrea  Hock 
+N:Resnick;Jason;;;
+FN: Jason  Resnick 
 ORG:Autlook Filmsales;
-TITLE:Director of Sales
-EMAIL;type=INTERNET;type=WORK;type=pref:andrea@autlookfilms.com
-TEL;type=WORK;type=VOICE:+43 670 208 7881
+TITLE:Consultant North America
+EMAIL;type=INTERNET;type=WORK;type=pref:jason@autlookfilms.com
+TEL;type=WORK Cell;type=VOICE:+1 323 638 9488
+TEL;type=WORK Office;type=VOICE:+43 670 208 7881
 item1.ADR;type=WORK;type=pref:;;Spittelberggasse 3/14\n1070 Vienna;;;Austria
 item1.X-ABADR:sg
 item2.URL;type=pref:autlookfilms.com
